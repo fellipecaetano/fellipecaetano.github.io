@@ -4,13 +4,18 @@ title: about
 permalink: /about/
 ---
 
+<div class="profile-picture-wrapper">
+  <img src="/assets/profile.png" class="profile-picture" />
+</div>
+
 Hi! 👋
 
 I'm Fellipe Caetano and I'm a professional software developer hailing
 from Brazil. I've been working with software development since 2010 and
 specifically with iOS applications since 2011, being involved with several
 projects written in Objective-C and Swift. I'm also a Computer Scientist
-undergrad student at the State University of Campinas (UNICAMP).
+undergrad student at the State University of Campinas (UNICAMP) and I currently
+work at [Sympla](https://www.sympla.com.br).
 
 This is a personal journal on my experiences as a software developer. Posts are
 usually short and mostly focused on iOS development using Swift, but you may
