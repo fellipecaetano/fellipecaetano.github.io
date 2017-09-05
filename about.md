@@ -4,15 +4,17 @@ title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! 👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Fellipe Caetano and I'm a professional software developer hailing
+from Brazil. I've been working with software development since 2010 and
+specifically with iOS applications since 2011, being involved with several
+projects written in Objective-C and Swift. I'm also a Computer Scientist
+undergrad student at the State University of Campinas (UNICAMP).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is a personal journal on my experiences as a software developer. Posts are
+usually short and mostly focused on iOS development using Swift, but you may
+also find abstract musings, records of failed hackings and the occasional rant
+about life as a programmer. You can also find me on
+[Twitter](https://twitter.com/{{ site.twitter_username }}) retweeting memes and
+talking gibberish in Portuguese. ✌️

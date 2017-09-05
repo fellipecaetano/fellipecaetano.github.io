@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: the plunge of a lifetime
+title: lagging behind
 author: Fellipe Caetano
 email: me@fellipecaetano.com
 description: > # this means to ignore newlines until "baseurl:"
-    This is a personal journal on my experiences as a software developer. Posts
-    are usually short and mostly focused on iOS development using Swift, but you
-    may also find abstract musings, records of failed hackings and the
-    occasional rant about life as a programmer.
+  Short posts about iOS development using Swift, records of experiences and
+  failed hackings and occasional rants about life as a programmer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fellipecaetano.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fellipecaetano_
